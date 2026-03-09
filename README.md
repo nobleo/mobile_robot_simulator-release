@@ -1,3 +1,26 @@
+## mobile_robot_simulator (kilted) - 2.0.0-2
+
+The packages in the `mobile_robot_simulator` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted mobile_robot_simulator` on `Mon, 09 Mar 2026 07:08:31 -0000`
+
+The `mobile_robot_simulator` package was released.
+
+Version of package(s) in repository `mobile_robot_simulator`:
+
+- upstream repository: https://github.com/nobleo/mobile_robot_simulator.git
+- release repository: https://github.com/nobleo/mobile_robot_simulator-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.0.0-1`
+- new version: `2.0.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## mobile_robot_simulator (kilted) - 2.0.0-1
 
 The packages in the `mobile_robot_simulator` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted mobile_robot_simulator` on `Fri, 06 Mar 2026 09:17:13 -0000`
