@@ -1,0 +1,12 @@
+Source: ros-humble-mobile-robot-simulator
+Section: misc
+Priority: optional
+Maintainer: "Tim Clephas" <tim.clephas@nobleo.nl>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-geometry-msgs, ros-humble-nav-msgs, ros-humble-rclcpp, ros-humble-rosgraph-msgs, ros-humble-sensor-msgs, ros-humble-tf2-geometry-msgs, ros-humble-tf2-ros, ros-humble-ros-workspace
+Homepage: https://index.ros.org/p/mobile_robot_simulator/#humble
+Standards-Version: 3.9.2
+
+Package: ros-humble-mobile-robot-simulator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-geometry-msgs, ros-humble-nav-msgs, ros-humble-rclcpp, ros-humble-rosgraph-msgs, ros-humble-sensor-msgs, ros-humble-tf2-geometry-msgs, ros-humble-tf2-ros, ros-humble-ros-workspace
+Description: The mobile_robot_simulator package
